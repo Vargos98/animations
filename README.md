@@ -1,4 +1,6 @@
-Web Animations Repository
+<h1>Web Animations Repository</h1>
+
+
 Welcome to our Web Animations Repository! 🎉
 
 This repository is a collection of various types of animations for websites, ranging from basic to advanced. Whether you're a beginner looking to add some flair to your site or an experienced developer seeking inspiration for complex animations, you'll find something useful here.
