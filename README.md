@@ -18,8 +18,6 @@ Canvas Animations: Interactive animations rendered on HTML5 canvas.
 Contributing
 We welcome contributions from the community! If you have an animation you'd like to share, or if you'd like to improve an existing one, please feel free to submit a pull request. Be sure to follow our contribution guidelines for more information.
 
-License
-This repository is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
 Special thanks to all the contributors who have shared their animations and helped make this repository a valuable resource for web developers.
